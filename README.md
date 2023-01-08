@@ -1,5 +1,5 @@
 # pp-fingal-group24-cuda
-Author: Ming-Yu Lin & Ying-Hao Wan.   
+Author: Ming-Yu Lin & Ying-Hao Wang.   
 Cuda implementation of parallel gaussian process
 ## Usage
 ```
